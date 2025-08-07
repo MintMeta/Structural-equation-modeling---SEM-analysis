@@ -6,6 +6,9 @@ Pavyzdžiui: tarkim, reikia sužinoti, ar darbo aplinka turi įtakos darbuotojų
 
 ## Kada naudoti?
 - Kai duomenys yra normaliai pasiskirstę.
+- Turime pakankamai daug duomenų (bent 200 eilučių).
+- Nėra daug išskirčių.
+- Klaidų dispersija (homoskedatiškumas) turėtų būti pastovi.
 - 
 
 # Structural-equation-modeling---SEM-analysis
